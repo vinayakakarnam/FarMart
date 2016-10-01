@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Farmart</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="farmartMain">Farmart</string>
+    <string formatted="false" name="farMarketActivity">FarMarket</string>
+    <string formatted="false" name="fruitsActivity">Fruits</string>
+    <string formatted="false" name="vegetablesMenuItem2Activity">Vegetables</string>
+    <string formatted="false" name="greensActivity">Greens</string>
+    <string formatted="false" name="groceriesActivity">Groceries</string>
+    <string formatted="false" name="cleaningActivity">Cleaning</string>
+</resources>
+
+
